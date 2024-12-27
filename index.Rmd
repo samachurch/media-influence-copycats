@@ -9,6 +9,6 @@ output:
 
 
 
-## Project thoughts
+## Introduction
 
 I am interested in exploring data related to...
