@@ -1,7 +1,7 @@
 ---
-title: "Gov 50 Final Project"
-author: "Your Name Here"
-description: "My final project"
+title: "Not All Press is Good Press: Evaluating the Impact of Media Coverage on Mass Violence"
+author: "Samuel A. Church"
+description: "Does media coverage of an event of mass violence — such as attacks in schools — encourage copycat events or deter similar behavior? This project will investiate the effects media coverage of an event has on the frequency of similar events in the future."
 output:
   distill::distill_article:
     self_contained: false
